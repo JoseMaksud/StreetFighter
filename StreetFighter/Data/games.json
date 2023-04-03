@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Street Fighter",
+        "Logo": "\\img\\games\\logo_sf1"
+    },
+    {
+        "Name": "Street Fighter 2",
+        "Logo": "\\img\\games\\logo_sf2"
+    },
+    {
+        "Name": "Street Fighter 3",
+        "Logo": "\\img\\games\\logo_sf3"
+    },
+    {
+        "Name": "Street Fighter 4",
+        "Logo": "\\img\\games\\logo_sf4"
+    },
+    {
+        "Name": "Street Fighter 5",
+        "Logo": "\\img\\games\\logo_sf5"
+    },
+    {
+        "Name": "Street Fighter 6",
+        "Logo": "\\img\\games\\logo_sf6"
+    }
+]

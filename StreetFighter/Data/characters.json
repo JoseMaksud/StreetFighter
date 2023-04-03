@@ -1,0 +1,182 @@
+[
+    {
+        "Name": "Cammy",
+        "Height": 1.64,
+        "Weight": 61,
+        "Enjoy": "Gatos",
+        "Hates": "Tudo (se estiver mal-humorada)",
+        "History": "Integrante da unidade das forças especiais britânicas Delta Red. Destacou-se na operação contra a Shadaloo, com a qual tem uma ligação predestinada. Ultracompetente, mas taciturna. Trabalha no QG atualmente.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\cammy.png"
+    },
+    {
+        "Name": "Lily",
+        "Height": 1.60,
+        "Weight": 48,
+        "Enjoy": "Câmeras, aves de rapina",
+        "Hates": "Mentiras",
+        "History": "Descendente da tribo Thunderfoot, Lily conversa com os espíritos da natureza, confiando na orientação deles enquanto viaja pelo mundo. Tamanho não é documento: sua baixa estatura oculta um poder colossal.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\lily.png"
+    },
+    {
+        "Name": "Zangief",
+        "Height": 2.14,
+        "Weight": 181,
+        "Enjoy": "Luta livre, dança cossaca",
+        "Hates": "Projéteis (Hadokens, por exemplo)",
+        "History": "Um lutador gigantesco conhecido como Ciclone Vermelho. Zangief se dedica a melhorar o próprio físico e orientar estudantes.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\zangief.png"
+    },
+    {
+        "Name": "JP",
+        "Height": 1.91,
+        "Weight": 97,
+        "Enjoy": "Problemas de xadrez, limpeza, culinária local",
+        "Hates": "Manchas nas roupas, dormir",
+        "History": "Líder de uma ONG internacional responsável por muitos investimentos bem-sucedidos, e o homem por trás da prosperidade de Nayshall. Tem uma gata chamada Cybele.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\jp.png"
+    },
+    {
+        "Name": "Marisa",
+        "Height": 2.03,
+        "Weight": 122,
+        "Enjoy": "Oponentes dignos, Ossobuco, belas artes",
+        "Hates": "Altitude",
+        "History": "Designer de joias italiana promissora que diz descender de guerreiros gregos. Quando criança, uma visão do Coliseu em tempos áureos a inspirou. Hoje, ela busca a glória com um sorriso e olhos afiados para o belo.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\marisa.png"
+    },
+    {
+        "Name": "Manon",
+        "Height": 1.75,
+        "Weight": 58,
+        "Enjoy": "A cor dourada, cosméticos, a família",
+        "Hates": "Multidões, gente tagarela",
+        "History": "Supermodelo e judoca campeã mundial, Manon é uma idealista, sempre procurando melhorar em sua busca pela beleza. Ela desfila no palco das lutas de rua para se tornar a modelo mais forte do mundo.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\manon.png"
+    },
+    {
+        "Name": "Dee Jay",
+        "Height": 1.84,
+        "Weight": 92,
+        "Enjoy": "Cantar, dançar, empolgação",
+        "Hates": "Silêncio",
+        "History": "Astro mundial da dança, Dee Jay está sempre pronto para uma boa diversão. Com uma paixão ímpar por música e luta, a sensação da Jamaica leva os fãs à loucura com músicas e golpes inigualáveis.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\deejay.png"
+    },
+    {
+        "Name": "E.Honda",
+        "Height": 1.85,
+        "Weight": 137,
+        "Enjoy": "Banhos",
+        "Hates": "Indecisão",
+        "History": "Um lutador de sumô que busca popularizar esse esporte pelo mundo, E. Honda poderia chegar a yokozuna, mas as viagens constantes impedem sua promoção. Ele também é um cozinheiro de primeira, conhecido pelo seu chankonabe.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\ehonda.png"
+    },
+    {
+        "Name": "Dhalsim",
+        "Height": 1.76,
+        "Weight": 48,
+        "Enjoy": "Meditar",
+        "Hates": "Distração, ferir os outros",
+        "History": "Um monge indiano e mestre da ioga que guiou inúmeras almas perdidas. Prefere evitar conflitos sempre que possível, mas seu desgosto inato pelo mal o instiga a fazer justiça com firmeza.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\dhalsim.png"
+    },
+    {
+        "Name": "Blanka",
+        "Height": 1.92,
+        "Weight": 98,
+        "Enjoy": "Samantha, bonecos do Blanka-chan",
+        "Hates": "Formigas-correição",
+        "History": "Defensor benevolente da natureza, Blanka se tornou guia turístico de aventuras, acreditando que a intimidade com a selva servirá de passaporte para a fama e garantirá uma vida boa para sua amada mãe.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\blanka.png"
+    },
+    {
+        "Name": "Ken",
+        "Height": 1.75,
+        "Weight": 83,
+        "Enjoy": "Família",
+        "Hates": "Reuniões inúteis",
+        "History": "Ex-campeão do Campeonato Nacional de Luta e ex-vice-presidente da Fundação Masters. Acusações de orquestrar um plano criminoso forçaram Ken a abandonar negócios e família e se esconder.",
+        "Game": ["Street Fighter, Street Fighter 2,  Street Fighter 3, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\ken.png"
+    },
+    {
+        "Name": "Juri",
+        "Height": 1.65,
+        "Weight": 57,
+        "Enjoy": "Motocicletas, aranhas",
+        "Hates": "Estraga-prazeres, regras",
+        "History": "Esta caçadora de emoções sádica deriva prazer da angústia e do sofrimento dos outros, se deleitando com a obliteração dos inimigos. Sem a vingança contra M. Bison como força-motriz, ela passa o tempo em névoas.",
+        "Game": ["Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\juri.png"
+    },
+    {
+        "Name": "Kimberly",
+        "Height": 1.68,
+        "Weight": 61,
+        "Enjoy": "Música dos anos 80, tênis, números grandes",
+        "Hates": "Filmes sentimentais",
+        "History": "Aluna de Guy e 39ª sucessora do Bushinryu. Kimberly teve uma infância normal, mas é uma garota prodígio que se formou antes do tempo... e agora quer ser ninja. Adora cultura pop dos anos 80.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\kimberly.png"
+    },
+    {
+        "Name": "Guile",
+        "Height": 1.82,
+        "Weight": 99,
+        "Enjoy": "Assistir a esportes, passear com o cachorro",
+        "Hates": "segredos, gente preguiçosa",
+        "History": "Piloto da força aérea estadunidense e defensor do país, Guile conseguiu vencer a Shadaloo e vingar seu amigo Charlie. Embora goste da vida familiar como poucos, novos campos de batalha o esperam.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\guile.png"
+    },
+    {
+        "Name": "Chun-Li",
+        "Height": 1.69,
+        "Weight": null,
+        "Enjoy": "dias de folga, fazer compras com Li-Fen",
+        "Hates": "crime, indecisão",
+        "History": "Ex-agente em ascensão da ICPO, Chun-Li cuida de Li-Fen, vítima do Incidente da Black Moon. Com a Shadaloo agora dividida, Chun-Li dá aulas de kung fu e se tornou uma figura adorada pela comunidade local.",
+        "Game": ["Street Fighter 2, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\chunli.png"
+    },
+    {
+        "Name": "Jamie",
+        "Height": 1.74,
+        "Weight": 77,
+        "Enjoy": "Yun, Yang, dançar, a avó",
+        "Hates": "lição de moral, arrogância",
+        "History": "Mediador da paz de Chinatown que quer seguir o exemplo de Yun e Yang, os Dragões Gêmeos. Um dançarino de primeira, Jamie valoriza a justiça e a amizade acima de tudo, defendendo a cidade com suas habilidades.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\jamie.png"
+    },
+    {
+        "Name": "Luke",
+        "Height": 1.85,
+        "Weight": 90,
+        "Enjoy": "viajar, jogos de PC, camisetas doidas",
+        "Hates": "jogos de terror",
+        "History": "Contratado por uma EMP, Luke usa sua vasta experiência para ensinar MMA. Ele passa os dias livres comendo tranqueiras, jogando videogames e lutando, mas não se engane: ele joga para vencer.",
+        "Game": ["Street Fighter 6"],
+        "Image": "\\img\\characters\\luke.png"
+    },
+    {
+        "Name": "Ryu",
+        "Height": 1.75,
+        "Weight": 85,
+        "Enjoy": "artes marciais",
+        "Hates": "aranhas",
+        "History": "Treinando incessantemente, este lutador busca a verdadeira força. Sincero e educado, Ryu viaja pelo mundo em busca de oponentes dignos. Depois de dominar o Satsui no Hado, agora ele busca alçar novos voos.",
+        "Game": ["Street Fighter, Street Fighter 2, Street Fighter 3, Street Fighter 4, Street Fighter 5, Street Fighter 6"],
+        "Image": "\\img\\characters\\ryu.png"
+    }
+]
