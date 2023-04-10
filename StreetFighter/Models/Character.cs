@@ -10,4 +10,9 @@ public class Character
     public string History { get; set; }
     public List<string> Games { get; set; }
     public string Image { get; set; }
+
+    public Character()
+    {
+        Games = new List<string>();
+    }
 }

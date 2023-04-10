@@ -1,26 +1,122 @@
 [
     {
         "Name": "Street Fighter",
-        "Logo": "\\img\\games\\logo_sf1"
+        "Logo": "\\img\\games\\logo_sf1.png"
     },
     {
-        "Name": "Street Fighter 2",
-        "Logo": "\\img\\games\\logo_sf2"
+        "Name": "Street Fighter II",
+        "Logo": "\\img\\games\\logo_sf2.png"
     },
     {
-        "Name": "Street Fighter 3",
-        "Logo": "\\img\\games\\logo_sf3"
+        "Name": "Street Fighter II: Champion Edition",
+        "Logo": "\\img\\games\\logo_sf2_2.png"
     },
     {
-        "Name": "Street Fighter 4",
-        "Logo": "\\img\\games\\logo_sf4"
+        "Name": "Street Fighter II Turbo: Hyper Fighting",
+        "Logo": "\\img\\games\\logo_sf2_3.png"
     },
     {
-        "Name": "Street Fighter 5",
-        "Logo": "\\img\\games\\logo_sf5"
+        "Name": "Super Street Fighter II- The New Challengers",
+        "Logo": "\\img\\games\\logo_sf_4.png"
+    },
+    {
+        "Name": "Super Street Fighter II Turbo",
+        "Logo": "\\img\\games\\logo_sf2_5.png"
+    },
+    {
+        "Name": "Street Fighter Alpha",
+        "Logo": "\\img\\games\\logo_sf0.png"
+    },
+    {
+        "Name": "Street Fighter Alpha 2",
+        "Logo": "\\img\\games\\logo_sf0_2.png"
+    },
+    {
+        "Name": "Street Fighter III",
+        "Logo": "\\img\\games\\logo_sf3.png"
+    },
+    {
+        "Name": "Street Fighter Collection",
+        "Logo": "\\img\\games\\logo_sfc.png"
+    },
+    {
+        "Name": "Street Fighter III: 2nd Impact",
+        "Logo": "\\img\\games\\logo_sf3_2.png"
+    },
+    {
+        "Name": "Street Fighter Alpha 3",
+        "Logo": "\\img\\games\\logo_sf0_3.png"
+    },
+    {
+        "Name": "Street Fighter III: 3rd Strike",
+        "Logo": "\\img\\games\\logo_sf3_3.png"
+    },
+    {
+        "Name": "Street Fighter III: Double Impact",
+        "Logo": "\\img\\games\\logo_sf3_4.png"
+    },
+    {
+        "Name": "Hyper Street Fighter II: The Anniversary Edition",
+        "Logo": "\\img\\games\\logo_hsf2.png"
+    },
+    {
+        "Name": "Street Fighter Anniversary Collection",
+        "Logo": "\\img\\games\\logo_sfani.png"
+    },
+    {
+        "Name": "Street Fighter Alpha Anthology",
+        "Logo": "\\img\\games\\logo_sf0_5.png"
+    },
+    {
+        "Name": "Street Fighter IV",
+        "Logo": "\\img\\games\\logo_sf4.png"
+    },
+    {
+        "Name": "Super Street Fighter IV",
+        "Logo": "\\img\\games\\logo_sf4_2.png"
+    },
+    {
+        "Name": "Super Street Fighter IV: Arcade Edition",
+        "Logo": "\\img\\games\\logo_sf4_3.png"
+    },
+    {
+        "Name": "Street Fighter III: 3rd Strike Online Edition",
+        "Logo": "\\img\\games\\logo_sf3_5.png"
+    },
+    {
+        "Name": "Ultra Street Fighter IV",
+        "Logo": "\\img\\games\\logo_sf4_4.png"
+    },
+    {
+        "Name": "Street Fighter V",
+        "Logo": "\\img\\games\\logo_sf5.png"
+    },
+    {
+        "Name": "Ultra Street Fighter II: The Final Challengers",
+        "Logo": "\\img\\games\\logo_sf2_6.png"
+    },
+    {
+        "Name": "Street Fighter V: Arcade Edition",
+        "Logo": "\\img\\games\\logo_sf5_2.png"
+    },
+    {
+        "Name": "Street Fighter V: Type Arcade",
+        "Logo": "\\img\\games\\logo_sf5_3.png"
+    },
+    {
+        "Name": "Street Fighter 30th Anniversary Collection",
+        "Logo": "\\img\\games\\logo_sf30th.png"
+    },
+    {
+        "Name": "Street Fighter V: Champion Edition",
+        "Logo": "\\img\\games\\logo_sf5_4.png"
+    },
+    {
+        "Name": "Capcom Fighting Collection",
+        "Logo": "\\img\\games\\logo_cfc.png"
     },
     {
         "Name": "Street Fighter 6",
-        "Logo": "\\img\\games\\logo_sf6"
+        "Logo": "\\img\\games\\logo_sf6.png"
     }
 ]
