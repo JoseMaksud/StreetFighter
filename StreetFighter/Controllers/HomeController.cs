@@ -1,21 +1,32 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using StreetFighter.Models;
+using StreetFighter.Services;
 
 namespace StreetFighter.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly IStreetService _streetService;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, IStreetService streetService)
     {
         _logger = logger;
+        _streetService = streetService;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(string game)
     {
-        return View();
+        var streets = _streetService.GetIndexDto();
+        ViewData["filter"] = string.IsNullOrEmpty(game) ? "all" : game;
+        return View(streets);
+    }
+
+    public IActionResult Details(string Name)
+    {
+        var character = _streetService.GetDetailedPokemon(Name);
+        return View(character);
     }
 
     public IActionResult Privacy()
