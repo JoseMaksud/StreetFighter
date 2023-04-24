@@ -49,18 +49,15 @@ public class StreetService : IStreetService
 
     public DetailsDto GetDetailedCharacter(string Name)
     {
-        var characters = GetCharacters();
-        var char = new DetailsDto()
+        var characters = GetCharacters().ToArray();
+        var index = Array.IndexOf(characters, characters.Where(p => p.Name.Equals(Name)).FirstOrDefault());
+        var character = new DetailsDto()
         {
-            Current = characters.Where(c => c.Name == Name)
-                .FirstOrDefault(),
-            Prior = characters.OrderByDescending(c => c.Name)
-                .FirstOrDefault(c => c.Name < Name),
-            Next = characters.OrderBy(c => c.Name)
-                .FirstOrDefault(c => c.Name > Name),
+            Current = characters[index],
+            Prior = index - 1 < 0 ? null : characters[index - 1],
+            Next = index + 1 >= characters.Count() ? null : characters[index + 1]
         };
-        char.Games = GetGames();
-        return char;
+        return character;
     }
 
     public Game GetGame(string Name)
@@ -87,5 +84,10 @@ public class StreetService : IStreetService
             string dados = leitor.ReadToEnd();
             return dados;
         }
+    }
+
+    public DetailsDto GetDetailedDto(string Name)
+    {
+        throw new NotImplementedException();
     }
 }

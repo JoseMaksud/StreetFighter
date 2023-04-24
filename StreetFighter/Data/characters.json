@@ -6,7 +6,7 @@
         "Enjoy": "Gatos",
         "Hates": "Tudo (se estiver mal-humorada)",
         "History": "Integrante da unidade das forças especiais britânicas Delta Red. Destacou-se na operação contra a Shadaloo, com a qual tem uma ligação predestinada. Ultracompetente, mas taciturna. Trabalha no QG atualmente.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\cammy.png"
     },
     {
@@ -26,7 +26,7 @@
         "Enjoy": "Luta livre, dança cossaca",
         "Hates": "Projéteis (Hadokens, por exemplo)",
         "History": "Um lutador gigantesco conhecido como Ciclone Vermelho. Zangief se dedica a melhorar o próprio físico e orientar estudantes.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\zangief.png"
     },
     {
@@ -66,7 +66,7 @@
         "Enjoy": "Cantar, dançar, empolgação",
         "Hates": "Silêncio",
         "History": "Astro mundial da dança, Dee Jay está sempre pronto para uma boa diversão. Com uma paixão ímpar por música e luta, a sensação da Jamaica leva os fãs à loucura com músicas e golpes inigualáveis.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\deejay.png"
     },
     {
@@ -76,7 +76,7 @@
         "Enjoy": "Banhos",
         "Hates": "Indecisão",
         "History": "Um lutador de sumô que busca popularizar esse esporte pelo mundo, E. Honda poderia chegar a yokozuna, mas as viagens constantes impedem sua promoção. Ele também é um cozinheiro de primeira, conhecido pelo seu chankonabe.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\ehonda.png"
     },
     {
@@ -86,7 +86,7 @@
         "Enjoy": "Meditar",
         "Hates": "Distração, ferir os outros",
         "History": "Um monge indiano e mestre da ioga que guiou inúmeras almas perdidas. Prefere evitar conflitos sempre que possível, mas seu desgosto inato pelo mal o instiga a fazer justiça com firmeza.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\dhalsim.png"
     },
     {
@@ -96,7 +96,7 @@
         "Enjoy": "Samantha, bonecos do Blanka-chan",
         "Hates": "Formigas-correição",
         "History": "Defensor benevolente da natureza, Blanka se tornou guia turístico de aventuras, acreditando que a intimidade com a selva servirá de passaporte para a fama e garantirá uma vida boa para sua amada mãe.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\blanka.png"
     },
     {
@@ -106,7 +106,7 @@
         "Enjoy": "Família",
         "Hates": "Reuniões inúteis",
         "History": "Ex-campeão do Campeonato Nacional de Luta e ex-vice-presidente da Fundação Masters. Acusações de orquestrar um plano criminoso forçaram Ken a abandonar negócios e família e se esconder.",
-        "Game": ["Street Fighter, Street Fighter II,  Street Fighter 3, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter", "Street Fighter II",  "Street Fighter 3", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\ken.png"
     },
     {
@@ -116,7 +116,7 @@
         "Enjoy": "Motocicletas, aranhas",
         "Hates": "Estraga-prazeres, regras",
         "History": "Esta caçadora de emoções sádica deriva prazer da angústia e do sofrimento dos outros, se deleitando com a obliteração dos inimigos. Sem a vingança contra M. Bison como força-motriz, ela passa o tempo em névoas.",
-        "Game": ["Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\juri.png"
     },
     {
@@ -136,17 +136,17 @@
         "Enjoy": "Assistir a esportes, passear com o cachorro",
         "Hates": "segredos, gente preguiçosa",
         "History": "Piloto da força aérea estadunidense e defensor do país, Guile conseguiu vencer a Shadaloo e vingar seu amigo Charlie. Embora goste da vida familiar como poucos, novos campos de batalha o esperam.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\guile.png"
     },
     {
         "Name": "Chun-Li",
         "Height": 1.69,
-        "Weight": null,
+        "Weight": 0,
         "Enjoy": "dias de folga, fazer compras com Li-Fen",
         "Hates": "crime, indecisão",
         "History": "Ex-agente em ascensão da ICPO, Chun-Li cuida de Li-Fen, vítima do Incidente da Black Moon. Com a Shadaloo agora dividida, Chun-Li dá aulas de kung fu e se tornou uma figura adorada pela comunidade local.",
-        "Game": ["Street Fighter II, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter II", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\chunli.png"
     },
     {
@@ -176,7 +176,7 @@
         "Enjoy": "artes marciais",
         "Hates": "aranhas",
         "History": "Treinando incessantemente, este lutador busca a verdadeira força. Sincero e educado, Ryu viaja pelo mundo em busca de oponentes dignos. Depois de dominar o Satsui no Hado, agora ele busca alçar novos voos.",
-        "Game": ["Street Fighter, Street Fighter II, Street Fighter 3, Street Fighter IV, Street Fighter V, Street Fighter 6"],
+        "Game": ["Street Fighter", "Street Fighter II", "Street Fighter 3", "Street Fighter IV", "Street Fighter V", "Street Fighter 6"],
         "Image": "\\img\\characters\\ryu.png"
     },
     {
@@ -206,7 +206,7 @@
         "Enjoy": "Treinamento intenso, meditação, chá verde",
         "Hates": "Fraco e indulgente",
         "History": "Akuma, também conhecido como Gouki, é um lutador de artes marciais que busca aprimorar seu estilo através de batalhas intensas e treinamento rigoroso. Ele é um mestre do estilo Ansatsuken, assim como Ryu e Ken, mas prefere um estilo mais agressivo e mortal. Ele é conhecido por sua sede de poder e sua busca implacável pela perfeição.",
-        "Game": ["Street Fighter II", "Street Fighter Alpha 2", "Street Fighter Alpha 3", "Street Fighter III: 2nd Impact", "Street Fighter III: 3rd Strike", "Street Fighter IV", "Street Fighter V", "Marvel vs. Capcom 3: Fate of Two Worlds", "Ultimate Marvel vs. Capcom 3"],
+        "Game": ["Street Fighter II", "Street Fighter Alpha 2", "Street Fighter Alpha 3", "Street Fighter III: 2nd Impact", "Street Fighter III: 3rd Strike", "Street Fighter IV", "Street Fighter V"],
         "Image": "\\img\\characters\\akuma.png"
       },
       {
@@ -226,7 +226,7 @@
         "Enjoy": "Dinheiro, luxo, mulheres",
         "Hates": "Perder dinheiro, ser enganado",
         "History": "Balrog, também conhecido como M. Bison nos jogos japoneses, é um boxeador americano que se tornou um dos membros mais poderosos da organização criminosa Shadaloo. Ele é conhecido por sua brutalidade e sua sede de poder, e não hesita em usar táticas sujas para alcançar seus objetivos. Balrog é um dos principais rivais de Ryu e seus amigos.",
-        "Game": ["Street Fighter II", "Street Fighter Alpha 3", "Street Fighter IV", "Street Fighter V", "Marvel vs. Capcom 2: New Age of Heroes", "Marvel vs. Capcom 3: Fate of Two Worlds", "Ultimate Marvel vs. Capcom 3"],
+        "Game": ["Street Fighter II", "Street Fighter Alpha 3", "Street Fighter IV", "Street Fighter V"],
         "Image": "\\img\\characters\\balrog.png"
       },
       {

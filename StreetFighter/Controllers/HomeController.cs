@@ -25,7 +25,7 @@ public class HomeController : Controller
 
     public IActionResult Details(string Name)
     {
-        var character = _streetService.GetDetailedPokemon(Name);
+        var character = _streetService.GetDetailedDto(Name);
         return View(character);
     }
 
