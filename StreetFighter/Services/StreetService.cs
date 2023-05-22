@@ -6,8 +6,8 @@ namespace StreetFighter.Services;
 public class StreetService : IStreetService
 {
     private readonly IHttpContextAccessor _session;
-    private readonly string characterFile = @"Data\characters.json";
-    private readonly string gamesFile = @"Data\games.json";
+    private readonly string personagensFile = @"Data\personagens.json";
+    private readonly string jogosFile = @"Data\jogos.json";
 
     public StreetService(IHttpContextAccessor session)
     {
@@ -15,65 +15,63 @@ public class StreetService : IStreetService
         PopularSessao();
     }
 
-    public List<Character> GetCharacters()
+    public List<Personagem> GetPersonagens()
     {
         PopularSessao();
-        var characters = JsonSerializer.Deserialize<List<Character>>
-            (_session.HttpContext.Session.GetString("Characters"));
-        return characters;
+        var personagens = JsonSerializer.Deserialize<List<Personagem>>
+        (_session.HttpContext.Session.GetString("Personagens"));
+        return personagens;
     }
 
-    public List<Game> GetGames()
+    public List<Jogo> GetJogos()
     {
         PopularSessao();
-        var games = JsonSerializer.Deserialize<List<Game>>
-            (_session.HttpContext.Session.GetString("Games"));
-        return games;
+        var jogos = JsonSerializer.Deserialize<List<Jogo>>
+        (_session.HttpContext.Session.GetString("Jogos"));
+        return jogos;
     }
 
-    public Character GetCharacter(string Name)
+    public Personagem GetPersonagem(string Nome)
     {
-        var characters = GetCharacters();
-        return characters.Where(c => c.Name == Name).FirstOrDefault();
+        var personagens = GetPersonagens();
+        return personagens.Where(p => p.Nome == Nome).FirstOrDefault();
     }
 
-    public IndexDto GetIndexDto()
+    public PersonagemDto GetPersonagemDto()
     {
-        var chars = new IndexDto()
+        var perso = new PersonagemDto()
         {
-            Characters = GetCharacters(),
-            Games = GetGames()
+            Personagens = GetPersonagens(),
+            Jogos = GetJogos()
         };
-        return chars;
+        return perso;
     }
 
-    public DetailsDto GetDetailedCharacter(string Name)
+     public DetailsDto GetDetailedPersonagem(string Nome)
     {
-        var characters = GetCharacters().ToArray();
-        var index = Array.IndexOf(characters, characters.Where(p => p.Name.Equals(Name)).FirstOrDefault());
-        var character = new DetailsDto()
+        var personagens = GetPersonagens().ToArray();
+        var index = Array.IndexOf(personagens, personagens.Where(p => p.Nome.Equals(Nome)).FirstOrDefault());
+        var perso = new DetailsDto()
         {
-            Current = characters[index],
-            Prior = index - 1 < 0 ? null : characters[index - 1],
-            Next = index + 1 >= characters.Count() ? null : characters[index + 1]
+            Current = personagens[index],
+            Prior = index - 1 < 0 ? null : personagens[index - 1],
+            Next = index + 1 >= personagens.Count() ? null : personagens[index + 1]
         };
-        return character;
+        return perso;
     }
 
-    public Game GetGame(string Name)
+    public Jogo GetJogo(string Nome)
     {
-        var games = GetGames();
-        return games.Where(g => g.Name == Name).FirstOrDefault();
+        var jogos = GetJogos();
+        return jogos.Where(p => p.Nome == Nome).FirstOrDefault();
     }
 
     private void PopularSessao()
     {
-        if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Games")))
+        if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Jogos")))
         {
-            _session.HttpContext.Session
-            .SetString("Characters", LerArquivo(characterFile));
-            _session.HttpContext.Session
-            .SetString("Games", LerArquivo(gamesFile));
+            _session.HttpContext.Session.SetString("Personagens", LerArquivo(personagensFile));
+            _session.HttpContext.Session.SetString("Jogos", LerArquivo(jogosFile));
         }
     }
 
@@ -84,10 +82,5 @@ public class StreetService : IStreetService
             string dados = leitor.ReadToEnd();
             return dados;
         }
-    }
-
-    public DetailsDto GetDetailedDto(string Name)
-    {
-        throw new NotImplementedException();
     }
 }

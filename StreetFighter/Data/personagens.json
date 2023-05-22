@@ -1,0 +1,683 @@
+[
+  {
+    "Nome": "Cammy",
+    "Altura": 1.64,
+    "Peso": 61,
+    "Gosta": "Gatos",
+    "Odeia": "Tudo (se estiver mal-humorada)",
+    "Historia": "Integrante da unidade das forças especiais britânicas Delta Red. Destacou-se na operação contra a Shadaloo, com a qual tem uma ligação predestinada. Ultracompetente, mas taciturna. Trabalha no QG atualmente.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\cammy.png"
+  },
+  {
+    "Nome": "Lily",
+    "Altura": 1.6,
+    "Peso": 48,
+    "Gosta": "Câmeras, aves de rapina",
+    "Odeia": "Mentiras",
+    "Historia": "Descendente da tribo Thunderfoot, Lily conversa com os espíritos da natureza, confiando na orientação deles enquanto viaja pelo mundo. Tamanho não é documento: sua baixa estatura oculta um poder colossal.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\lily.png"
+  },
+  {
+    "Nome": "Zangief",
+    "Altura": 2.14,
+    "Peso": 181,
+    "Gosta": "Luta livre, dança cossaca",
+    "Odeia": "Projéteis (Hadokens, por exemplo)",
+    "Historia": "Um lutador gigantesco conhecido como Ciclone Vermelho. Zangief se dedica a melhorar o próprio físico e orientar estudantes.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\zangief.png"
+  },
+  {
+    "Nome": "JP",
+    "Altura": 1.91,
+    "Peso": 97,
+    "Gosta": "Problemas de xadrez, limpeza, culinária local",
+    "Odeia": "Manchas nas roupas, dormir",
+    "Historia": "Líder de uma ONG internacional responsável por muitos investimentos bem-sucedidos, e o homem por trás da prosperidade de Nayshall. Tem uma gata chamada Cybele.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\jp.png"
+  },
+  {
+    "Nome": "Marisa",
+    "Altura": 2.03,
+    "Peso": 122,
+    "Gosta": "Oponentes dignos, Ossobuco, belas artes",
+    "Odeia": "Altitude",
+    "Historia": "Designer de joias italiana promissora que diz descender de guerreiros gregos. Quando criança, uma visão do Coliseu em tempos áureos a inspirou. Hoje, ela busca a glória com um sorriso e olhos afiados para o belo.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\marisa.png"
+  },
+  {
+    "Nome": "Manon",
+    "Altura": 1.75,
+    "Peso": 58,
+    "Gosta": "A cor dourada, cosméticos, a família",
+    "Odeia": "Multidões, gente tagarela",
+    "Historia": "Supermodelo e judoca campeã mundial, Manon é uma idealista, sempre procurando melhorar em sua busca pela beleza. Ela desfila no palco das lutas de rua para se tornar a modelo mais forte do mundo.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\manon.png"
+  },
+  {
+    "Nome": "Dee Jay",
+    "Altura": 1.84,
+    "Peso": 92,
+    "Gosta": "Cantar, dançar, empolgação",
+    "Odeia": "Silêncio",
+    "Historia": "Astro mundial da dança, Dee Jay está sempre pronto para uma boa diversão. Com uma paixão ímpar por música e luta, a sensação da Jamaica leva os fãs à loucura com músicas e golpes inigualáveis.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\deejay.png"
+  },
+  {
+    "Nome": "E.Honda",
+    "Altura": 1.85,
+    "Peso": 137,
+    "Gosta": "Banhos",
+    "Odeia": "Indecisão",
+    "Historia": "Um lutador de sumô que busca popularizar esse esporte pelo mundo, E. Honda poderia chegar a yokozuna, mas as viagens constantes impedem sua promoção. Ele também é um cozinheiro de primeira, conhecido pelo seu chankonabe.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\ehonda.png"
+  },
+  {
+    "Nome": "Dhalsim",
+    "Altura": 1.76,
+    "Peso": 48,
+    "Gosta": "Meditar",
+    "Odeia": "Distração, ferir os outros",
+    "Historia": "Um monge indiano e mestre da ioga que guiou inúmeras almas perdidas. Prefere evitar conflitos sempre que possível, mas seu desgosto inato pelo mal o instiga a fazer justiça com firmeza.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\dhalsim.png"
+  },
+  {
+    "Nome": "Blanka",
+    "Altura": 1.92,
+    "Peso": 98,
+    "Gosta": "Samantha, bonecos do Blanka-chan",
+    "Odeia": "Formigas-correição",
+    "Historia": "Defensor benevolente da natureza, Blanka se tornou guia turístico de aventuras, acreditando que a intimidade com a selva servirá de passaporte para a fama e garantirá uma vida boa para sua amada mãe.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\blanka.png"
+  },
+  {
+    "Nome": "Ken",
+    "Altura": 1.75,
+    "Peso": 83,
+    "Gosta": "Família",
+    "Odeia": "Reuniões inúteis",
+    "Historia": "Ex-campeão do Campeonato Nacional de Luta e ex-vice-presidente da Fundação Masters. Acusações de orquestrar um plano criminoso forçaram Ken a abandonar negócios e família e se esconder.",
+    "Jogo": [
+      "Street Fighter",
+      "Street Fighter II",
+      "Street Fighter III",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\ken.png"
+  },
+  {
+    "Nome": "Juri",
+    "Altura": 1.65,
+    "Peso": 57,
+    "Gosta": "Motocicletas, aranhas",
+    "Odeia": "Estraga-prazeres, regras",
+    "Historia": "Esta caçadora de emoções sádica deriva prazer da angústia e do sofrimento dos outros, se deleitando com a obliteração dos inimigos. Sem a vingança contra M. Bison como força-motriz, ela passa o tempo em névoas.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\juri.png"
+  },
+  {
+    "Nome": "Kimberly",
+    "Altura": 1.68,
+    "Peso": 61,
+    "Gosta": "Música dos anos 80, tênis, números grandes",
+    "Odeia": "Filmes sentimentais",
+    "Historia": "Aluna de Guy e 39ª sucessora do Bushinryu. Kimberly teve uma infância normal, mas é uma garota prodígio que se formou antes do tempo... e agora quer ser ninja. Adora cultura pop dos anos 80.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\kimberly.png"
+  },
+  {
+    "Nome": "Guile",
+    "Altura": 1.82,
+    "Peso": 99,
+    "Gosta": "Assistir a esportes, passear com o cachorro",
+    "Odeia": "segredos, gente preguiçosa",
+    "Historia": "Piloto da força aérea estadunidense e defensor do país, Guile conseguiu vencer a Shadaloo e vingar seu amigo Charlie. Embora goste da vida familiar como poucos, novos campos de batalha o esperam.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\guile.png"
+  },
+  {
+    "Nome": "Chun-Li",
+    "Altura": 1.69,
+    "Peso": 0,
+    "Gosta": "dias de folga, fazer compras com Li-Fen",
+    "Odeia": "crime, indecisão",
+    "Historia": "Ex-agente em ascensão da ICPO, Chun-Li cuida de Li-Fen, vítima do Incidente da Black Moon. Com a Shadaloo agora dividida, Chun-Li dá aulas de kung fu e se tornou uma figura adorada pela comunidade local.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\chunli.png"
+  },
+  {
+    "Nome": "Jamie",
+    "Altura": 1.74,
+    "Peso": 77,
+    "Gosta": "Yun, Yang, dançar, a avó",
+    "Odeia": "lição de moral, arrogância",
+    "Historia": "Mediador da paz de Chinatown que quer seguir o exemplo de Yun e Yang, os Dragões Gêmeos. Um dançarino de primeira, Jamie valoriza a justiça e a amizade acima de tudo, defendendo a cidade com suas habilidades.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\jamie.png"
+  },
+  {
+    "Nome": "Luke",
+    "Altura": 1.85,
+    "Peso": 90,
+    "Gosta": "viajar, jogos de PC, camisetas doidas",
+    "Odeia": "jogos de terror",
+    "Historia": "Contratado por uma EMP, Luke usa sua vasta experiência para ensinar MMA. Ele passa os dias livres comendo tranqueiras, jogando videogames e lutando, mas não se engane: ele joga para vencer.",
+    "Jogo": [
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\luke.png"
+  },
+  {
+    "Nome": "Ryu",
+    "Altura": 1.75,
+    "Peso": 85,
+    "Gosta": "artes marciais",
+    "Odeia": "aranhas",
+    "Historia": "Treinando incessantemente, este lutador busca a verdadeira força. Sincero e educado, Ryu viaja pelo mundo em busca de oponentes dignos. Depois de dominar o Satsui no Hado, agora ele busca alçar novos voos.",
+    "Jogo": [
+      "Street Fighter",
+      "Street Fighter II",
+      "Street Fighter III",
+      "Street Fighter IV",
+      "Street Fighter V",
+      "Street Fighter 6"
+    ],
+    "Imagem": "\\img\\personagens\\ryu.png"
+  },
+  {
+    "Nome": "Abigail",
+    "Altura": 2.15,
+    "Peso": 240,
+    "Gosta": "Carros e motocicletas",
+    "Odeia": "Perder uma corrida",
+    "Historia": "Ex-líder de uma gangue de motoqueiros chamada Mad Gear. Depois de sofrer uma derrota humilhante para o lutador Haggar, ele decidiu se tornar um lutador de rua. Seu tamanho e força incomparáveis o tornam um adversário temível.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\abigail.png"
+  },
+  {
+    "Nome": "Akira",
+    "Altura": 1.6,
+    "Peso": 45,
+    "Gosta": "Motocicletas (especialmente bicicletas de corrida), seu irmão mais velho Daigo, seus amigos Gedo High ( Edge e Gan ), seus amigos Seijyun High ( Yurika e Zaki ), gatos, confeitaria (especialmente bolo de chocolate e cheesecake), jogos Mega Man , artes marciais, corrida de bicicleta ",
+    "Odeia": "Chatter ] , natação (anteriormente), educação física  , músicas (a razão é secreta)  , homens narcisistas como Vega",
+    "Historia": "Akira é uma garota silenciosa que raramente fala o que pensa. Ela pode ser dura e autoritária enquanto veste sua roupa de motociclista, mas é uma pessoa dócil e gentil sem ela. A roupa foi originalmente planejada para esconder seu verdadeiro gênero antes de se matricular na Gedo High.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\akira.png"
+  },
+  {
+    "Nome": "Akuma",
+    "Altura": 1.78,
+    "Peso": 80,
+    "Gosta": "Treinamento intenso, meditação, chá verde",
+    "Odeia": "Fraco e indulgente",
+    "Historia": "Akuma, também conhecido como Gouki, é um lutador de artes marciais que busca aprimorar seu estilo através de batalhas intensas e treinamento rigoroso. Ele é um mestre do estilo Ansatsuken, assim como Ryu e Ken, mas prefere um estilo mais agressivo e mortal. Ele é conhecido por sua sede de poder e sua busca implacável pela perfeição.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\akuma.png"
+  },
+  {
+    "Nome": "Alex",
+    "Altura": 1.9,
+    "Peso": 110,
+    "Gosta": "Ouvir música, lutar",
+    "Odeia": "Pessoas arrogantes, seus próprios fracassos",
+    "Historia": "Alex é um jovem lutador americano que começou a lutar nas ruas para ajudar sua família. Ele logo chamou a atenção de Tom, um lutador experiente que o treinou e o introduziu no mundo dos torneios de artes marciais. Alex é conhecido por seu estilo agressivo e sua força bruta, mas também por sua personalidade teimosa e impulsiva.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\alex.png"
+  },
+  {
+    "Nome": "Balrog",
+    "Altura": 1.92,
+    "Peso": 102,
+    "Gosta": "Dinheiro, luxo, mulheres",
+    "Odeia": "Perder dinheiro, ser enganado",
+    "Historia": "Balrog, também conhecido como M. Bison nos jogos japoneses, é um boxeador americano que se tornou um dos membros mais poderosos da organização criminosa Shadaloo. Ele é conhecido por sua brutalidade e sua sede de poder, e não hesita em usar táticas sujas para alcançar seus objetivos. Balrog é um dos principais rivais de Ryu e seus amigos.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\balrog.png"
+  },
+  {
+    "Nome": "Birdie",
+    "Altura": 1.98,
+    "Peso": 189,
+    "Gosta": "Comida, bebida, mulheres",
+    "Odeia": "Regras, autoridade, bandidos",
+    "Historia": "Birdie é um ex-bandido inglês que decidiu seguir o caminho da justiça depois de enfrentar Ryu em uma luta. Ele é conhecido por sua força bruta e sua habilidade em usar objetos do ambiente como armas. Birdie tem um coração grande, mas sua personalidade desleixada e sua língua afiada frequentemente o colocam em problemas.",
+    "Jogo": [
+      "Street Fighter",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\birdie.png"
+  },
+  {
+    "Nome": "Cody",
+    "Altura": 1.82,
+    "Peso": 82,
+    "Gosta": "Desafios, brigas justas, cigarros",
+    "Odeia": "Autoridade, regras, tédio",
+    "Historia": "Cody é um ex-líder de gangue americano que foi preso por suas atividades criminosas. Ele é conhecido por sua habilidade em briga de rua e por sua personalidade desafiadora e imprudente. Depois de cumprir sua pena na prisão, Cody se tornou um lutador independente e entrou nos torneios de artes marciais para provar seu valor. Ele é um dos personagens favoritos dos fãs da série Street Fighter.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\cody.png"
+  },
+  {
+    "Nome": "Dan",
+    "Altura": 1.75,
+    "Peso": 75,
+    "Gosta": "Seu estilo de luta, seu pai, as mulheres",
+    "Odeia": "Akuma, perder uma luta",
+    "Historia": "Dan é um lutador de artes marciais mistas que criou seu próprio estilo de luta, chamado Saikyo-ryu. Ele é conhecido por sua personalidade arrogante e sua tendência a se gabar de suas habilidades, mesmo quando está perdendo uma luta. Dan também é o filho de Go Hibiki, um lendário lutador que foi morto por Akuma, e está em busca de vingança contra ele.",
+    "Jogo": [
+      "Street Fighter III",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\dan.png"
+  },
+  {
+    "Nome": "Ed",
+    "Altura": 1.8,
+    "Peso": 68,
+    "Gosta": "Treinar, superar seus limites",
+    "Odeia": "Bison, a organização Shadaloo",
+    "Historia": "Ed é um jovem lutador que foi sequestrado pela organização criminosa Shadaloo e submetido a experimentos para aumentar suas habilidades de luta. Ele acabou sendo resgatado por Balrog, outro ex-membro da organização, e agora busca vingança contra Bison e seus seguidores. Ed usa poderes psíquicos em sua luta, que ele aprendeu durante os experimentos da Shadaloo.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\ed.png"
+  },
+  {
+    "Nome": "Falke",
+    "Altura": 1.76,
+    "Peso": 57,
+    "Gosta": "Seu bastão, sua liberdade, ajudar as pessoas",
+    "Odeia": "Sua vida anterior, a organização Shadaloo",
+    "Historia": "Falke é uma lutadora que foi criada como uma cobaia pela organização criminosa Shadaloo. Ela foi submetida a experimentos para aumentar suas habilidades de luta, e acabou desenvolvendo a capacidade de manipular energia psíquica. Depois de ser resgatada por Ed e Balrog, Falke decidiu usar suas habilidades para ajudar as pessoas e lutar contra a Shadaloo.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\falke.png"
+  },
+  {
+    "Nome": "F.A.N.G",
+    "Altura": 1.9,
+    "Peso": 77,
+    "Gosta": "Sua posição na Shadaloo, derrotar seus inimigos",
+    "Odeia": "Bison, qualquer um que ameace sua posição",
+    "Historia": "F.A.N.G é um dos líderes da organização criminosa Shadaloo, e é responsável por desenvolver suas armas biológicas. Ele é conhecido por sua personalidade excêntrica e sua tendência a usar venenos em sua luta. F.A.N.G é leal a Bison, o líder da Shadaloo, mas também tem seus próprios planos ambiciosos para ascender na hierarquia da organização.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\fang.png"
+  },
+  {
+    "Nome": "G",
+    "Altura": 1.93,
+    "Peso": 120,
+    "Gosta": "Seus seguidores, seus discursos inflamados",
+    "Odeia": "Qualquer um que ameace seus seguidores, a organização Illuminati",
+    "Historia": "G é um misterioso lutador que afirma ser o Presidente do Mundo. Ele viaja pelo mundo em busca de seguidores que possam ajudá-lo a concretizar sua visão de um mundo melhor. G tem a habilidade de controlar eletricidade, e é conhecido por seus discursos inflamados e sua personalidade carismática.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\g.png"
+  },
+  {
+    "Nome": "Gill",
+    "Altura": 1.94,
+    "Peso": 92,
+    "Gosta": "Sua posição como líder da sociedade secreta Illuminati",
+    "Odeia": "Qualquer um que ameace a Illuminati, Ryu",
+    "Historia": "Gill é o líder da sociedade secreta Illuminati, e é conhecido por suas habilidades de manipulação do fogo e do gelo. Ele acredita que o poder é o caminho para a evolução da humanidade, e está disposto a fazer qualquer coisa para manter a posição da Illuminati como uma das organizações mais poderosas do mundo.",
+    "Jogo": [
+
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\gill.png"
+  },
+  {
+    "Nome": "Ibuki",
+    "Altura": 1.62,
+    "Peso": 48,
+    "Gosta": "Seus amigos, ninjutsu",
+    "Odeia": "Treinamento rigoroso, injustiças",
+    "Historia": "Ibuki é uma jovem ninja da aldeia de Iga, que é designada para uma missão secreta de espionagem na cidade de Tóquio. Ela se junta ao torneio Street Fighter como parte de sua missão, mas acaba se envolvendo em vários conflitos com outros lutadores. Ibuki é uma lutadora rápida e ágil, que usa uma combinação de técnicas de ninjutsu e ataques explosivos para derrotar seus oponentes.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\ibuki.png"
+  },
+  {
+    "Nome": "Kage",
+    "Altura": 1.88,
+    "Peso": 89,
+    "Gosta": "A força e o poder que a Satsui no Hado lhe confere",
+    "Odeia": "Seu lado humano, Ryu",
+    "Historia": "Kage é a personificação da Satsui no Hado, uma energia maligna que corrói a alma do usuário. Ele foi criado a partir da sombra de Ryu, e busca se tornar o ser mais poderoso do mundo ao se entregar completamente à Satsui no Hado. Kage é um lutador ágil e poderoso, que usa uma combinação de técnicas de luta e poderosas rajadas de energia para derrotar seus oponentes.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\kage.png"
+  },
+  {
+    "Nome": "Karin",
+    "Altura": 1.7,
+    "Peso": 56,
+    "Gosta": "Estilo, dinheiro, vitória",
+    "Odeia": "Perder, pessoas sem classe",
+    "Historia": "Karin é uma jovem da família Kanzuki, uma das mais ricas e poderosas do mundo. Ela é uma lutadora habilidosa, que aprendeu artes marciais desde muito jovem, e busca sempre se superar em suas habilidades. Karin é uma lutadora ágil e forte, que usa uma combinação de técnicas de luta e poderosos golpes para derrotar seus oponentes.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\karin.png"
+  },
+  {
+    "Nome": "Kolin",
+    "Altura": 1.67,
+    "Peso": 49,
+    "Gosta": "A frieza do gelo",
+    "Odeia": "Aqueles que não respeitam a ordem",
+    "Historia": "Kolin é uma das principais membros da Illuminati, uma organização secreta que busca controlar o mundo por meio da manipulação dos governos e instituições. Ela é uma lutadora habilidosa, que usa seus poderes de controle do gelo para congelar seus oponentes e manipular o campo de batalha. Kolin é uma lutadora ágil e estratégica, que usa uma combinação de técnicas de luta e poderosos golpes para derrotar seus oponentes.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\kolin.png"
+  },
+  {
+    "Nome": "Laura",
+    "Altura": 1.72,
+    "Peso": 62,
+    "Gosta": "Esportes radicais, lutas, dança",
+    "Odeia": "Machismo, arrogância",
+    "Historia": "Laura é uma lutadora brasileira que busca popularizar a luta livre no Brasil. Ela é uma lutadora habilidosa, que usa uma combinação de técnicas de luta e movimentos de dança para confundir seus oponentes. Laura é uma lutadora ágil e rápida, que usa a eletricidade para aumentar o poder de seus golpes e derrotar seus oponentes.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\laura.png"
+  },
+  {
+    "Nome": "Lucia",
+    "Altura": 1.73,
+    "Peso": 60,
+    "Gosta": "Justiça, música, boliche",
+    "Odeia": "Corrupção, injustiça, falta de respeito",
+    "Historia": "Lucia é uma policial de Metro City que luta contra o crime em sua cidade. Ela é uma lutadora habilidosa, que usa uma combinação de técnicas de luta e golpes de projétil para enfrentar seus oponentes. Lucia é uma lutadora ágil e rápida, que usa sua astúcia e inteligência para vencer suas batalhas.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\lucia.png"
+  },
+  {
+    "Nome": "M. Bison",
+    "Altura": 1.85,
+    "Peso": 110,
+    "Gosta": "Poder, controle, dominação",
+    "Odeia": "A derrota, seus inimigos",
+    "Historia": "M. Bison é o líder da organização criminosa Shadaloo, que busca governar o mundo usando o poder da tecnologia e das artes marciais. Ele é um lutador habilidoso, que usa uma combinação de técnicas de luta e poderes psíquicos para derrotar seus oponentes. M. Bison é um lutador implacável, que não tolera a derrota e fará qualquer coisa para atingir seus objetivos.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\mbison.png"
+  },
+  {
+    "Nome": "Menat",
+    "Altura": 1.65,
+    "Peso": 50,
+    "Gosta": "Leitura, dança do ventre, ver as estrelas",
+    "Odeia": "Interrupções, preguiça, inimigos",
+    "Historia": "Menat é uma vidente egípcia que trabalha como lutadora profissional. Ela usa um orbe mágico como sua principal arma, que ela pode lançar em seus oponentes para causar dano. Menat é uma lutadora ágil e rápida, que usa sua inteligência e estratégia para vencer suas batalhas.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\menat.png"
+  },
+  {
+    "Nome": "Nash",
+    "Altura": 1.85,
+    "Peso": 85,
+    "Gosta": "Justiça, proteger os inocentes",
+    "Odeia": "Shadaloo, Bison",
+    "Historia": "Nash é um ex-membro das forças especiais americanas que foi dado como morto durante uma missão de combate com a Shadaloo. Ele foi ressuscitado pelo cientista da Shadaloo, Dr. Dorai, e transformado em um guerreiro cibernético com poderes sobre-humanos. Nash agora luta para destruir a Shadaloo e acabar com as ambições do seu líder, M. Bison.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\nash.png"
+  },
+  {
+    "Nome": "Necalli",
+    "Altura": 1.89,
+    "Peso": 105,
+    "Gosta": "Lutar, destruição",
+    "Odeia": "Civilização, os fracos",
+    "Historia": "Necalli é um guerreiro místico que aparece em épocas de grandes mudanças na história humana. Ele busca batalhas com os mais fortes para se fortalecer e se alimentar de suas almas. Necalli é um lutador brutal, com ataques que destroem seus oponentes. Ele não tem alianças e não segue nenhuma regra, lutando apenas pelo seu próprio prazer.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\necalli.png"
+  },
+  {
+    "Nome": "Oro",
+    "Altura": 1.83,
+    "Peso": 62,
+    "Gosta": "Viver por mil anos, observar a humanidade",
+    "Odeia": "Lutas desnecessárias, tolos",
+    "Historia": "Oro é um velho eremita que vive nas montanhas. Ele é um dos seres mais poderosos do mundo, tendo apenas um braço e ainda assim sendo capaz de lutar em pé de igualdade com os maiores lutadores do mundo. Oro passa seus dias meditando, observando a humanidade e treinando seus poderes. Ele raramente luta, a menos que seja para proteger algo que considera importante.",
+    "Jogo": [
+      "Street Fighter III"
+    ],
+    "Imagem": "\\img\\personagens\\oro.png"
+  },
+  {
+    "Nome": "Poison",
+    "Altura": 1.73,
+    "Peso": 58,
+    "Gosta": "Fazer compras, bebidas e baladas",
+    "Odeia": "Bullying, desrespeito às mulheres",
+    "Historia": "Poison é uma lutadora americana que trabalha como gerente de uma gangue de motociclistas. Ela é conhecida por sua personalidade forte e seus movimentos ágeis e provocantes. Originalmente, foi criada como um personagem transexual, mas isso foi posteriormente alterado dependendo do país em que o jogo é lançado. Poison tem uma grande rivalidade com Cody e também é amiga de Hugo, com quem trabalhou em sua gangue.",
+    "Jogo": [
+      "Street Fighter IV"
+    ],
+    "Imagem": "\\img\\personagens\\poison.png"
+  },
+  {
+    "Nome": "Rashid",
+    "Altura": 1.81,
+    "Peso": 74,
+    "Gosta": "Viagens, tecnologia, moda",
+    "Odeia": "Injustiça, desrespeito, autoridade abusiva",
+    "Historia": "Rashid é um jovem milionário dos Emirados Árabes Unidos que usa sua riqueza para viajar pelo mundo em busca de desafios de luta e para encontrar seu amigo desaparecido. Ele é habilidoso em artes marciais e também tem habilidades com tecnologia, como seus sapatos com propulsores que o ajudam a voar. Rashid é um personagem alegre e enérgico que valoriza a justiça e o respeito.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\rashid.png"
+  },
+  {
+    "Nome": "R. Mika",
+    "Altura": 1.65,
+    "Peso": 72,
+    "Gosta": "Wrestling, competição, fãs",
+    "Odeia": "Perder, não ter a atenção dos fãs",
+    "Historia": "R. Mika é uma lutadora de wrestling profissional japonesa que sonha em se tornar a melhor do mundo. Ela é amiga próxima de Zangief, outro lutador de wrestling, e muitas vezes o acompanha em suas viagens. R. Mika é conhecida por sua personalidade extrovertida e alegre, e por usar golpes de wrestling durante suas lutas. Ela é uma lutadora popular entre os fãs de wrestling e está sempre procurando por uma chance de se apresentar para eles.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\rmika.png"
+  },
+  {
+    "Nome": "Rose",
+    "Altura": 1.71,
+    "Peso": 57,
+    "Gosta": "Leitura, meditação, chá",
+    "Odeia": "A maldição de sua família, o controle de M. Bison sobre ela",
+    "Historia": "Rose é uma vidente italiana que luta para proteger o mundo da ameaça de M. Bison. Ela é descendente de uma longa linhagem de videntes que serviram como guardiões da luz, e herdou a missão de manter o equilíbrio entre a luz e a escuridão. Rose é uma lutadora poderosa, que usa seus poderes psíquicos para derrotar seus inimigos. No entanto, ela teme que seu destino esteja ligado ao de M. Bison, e luta para escapar da influência do vilão.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\rose.png"
+  },
+  {
+    "Nome": "Sagat",
+    "Altura": 2.13,
+    "Peso": 102,
+    "Gosta": "Treinamento de artes marciais, meditação",
+    "Odeia": "Ryu, a derrota",
+    "Historia": "Sagat é um lutador de Muay Thai de alto nível e um dos vilões originais da série Street Fighter. Ele é conhecido por sua altura imponente e cicatriz no peito, que foi infligida por Ryu em uma luta anterior. Sagat é um personagem complexo, que luta com seus demônios internos e a busca pela redenção. Ele já foi um membro da organização criminosa Shadaloo, liderada por M. Bison, mas posteriormente se arrependeu de suas ações e se tornou um lutador livre.",
+    "Jogo": [
+      "Street Fighter",
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\sagat.png"
+  },
+  {
+    "Nome": "Sakura",
+    "Altura": 1.65,
+    "Peso": 50,
+    "Gosta": "Karatê, videogames",
+    "Odeia": "Estudar, perder",
+    "Historia": "Sakura é uma estudante do ensino médio que idolatra Ryu e treina Karatê na esperança de se tornar tão forte quanto ele. Ela é conhecida por seu entusiasmo e energia, mas muitas vezes age antes de pensar. Ela é uma personagem recorrente na série Street Fighter, aparecendo em jogos como Street Fighter Alpha 2 e Street Fighter IV. Apesar de sua aparência jovem, Sakura é uma lutadora habilidosa e determinada, capaz de derrotar até mesmo lutadores experientes.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\sakura.png"
+  },
+  {
+    "Nome": "Seth",
+    "Altura": 1.84,
+    "Peso": 78,
+    "Gosta": "Estudar outros lutadores, experimentar novos golpes",
+    "Odeia": "Derrota, falha",
+    "Historia": "Seth é o CEO da S.I.N. e o chefe final de Street Fighter IV. Ele foi criado por M. Bison para ser o corpo perfeito, combinando habilidades de vários lutadores e usando o poder do Satsui no Hado. Ele busca constantemente a perfeição e está sempre estudando outros lutadores em busca de novas técnicas para incorporar em seu estilo de luta. Apesar de sua aparência frágil, Seth é um adversário extremamente perigoso e habilidoso, capaz de utilizar todos os golpes de outros lutadores e adaptar-se rapidamente a qualquer situação.",
+    "Jogo": [
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\seth.png"
+  },
+  {
+    "Nome": "Urien",
+    "Altura": 1.93,
+    "Peso": 100,
+    "Gosta": "Seu poder e controle sobre os outros",
+    "Odeia": "Aqueles que são mais fortes do que ele",
+    "Historia": "Urien é o vice-presidente da Illuminati, uma organização secreta que busca governar o mundo. Ele é o irmão mais novo de Gill, o presidente da organização, e tem uma rivalidade intensa com ele. Urien é um lutador extremamente poderoso, capaz de controlar eletricidade e fogo com sua energia chamada de Aegis Reflector. Ele busca constantemente provar sua superioridade sobre os outros e está disposto a fazer o que for preciso para alcançar seus objetivos.",
+    "Jogo": [
+      "Street Fighter III",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\urien.png"
+  },
+  {
+    "Nome": "Vega",
+    "Altura": 1.79,
+    "Peso": 73,
+    "Gosta": "Seu próprio reflexo",
+    "Odeia": "Pessoas que não são tão bonitas quanto ele",
+    "Historia": "Vega é um membro da organização criminosa Shadaloo e é um assassino sádico que mata por prazer. Ele é obcecado por sua aparência e usa uma garra em cada mão para se defender e atacar. Ele é também um dançarino talentoso e incorpora movimentos de dança em seu estilo de luta. Vega é extremamente orgulhoso de sua beleza e usa uma máscara para preservar sua aparência, além de se recusar a lutar contra qualquer pessoa que ele considera inferior.",
+    "Jogo": [
+      "Street Fighter II",
+      "Street Fighter IV",
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\vega.png"
+  },
+  {
+    "Nome": "Zeku",
+    "Altura": 1.8,
+    "Peso": 78,
+    "Gosta": "Treinamento",
+    "Odeia": "Desrespeito às tradições do Bushinryu",
+    "Historia": "Antigo líder do clã ninja Bushinryu. Decidiu se aposentar e viver uma vida tranquila como ferreiro, mas foi forçado a retornar às artes marciais quando sua aluna, Ibuki, foi ameaçada. Agora, ele busca um sucessor digno para seu legado.",
+    "Jogo": [
+      "Street Fighter V"
+    ],
+    "Imagem": "\\img\\personagens\\zeku.png"
+  }
+]

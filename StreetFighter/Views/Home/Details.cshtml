@@ -1,42 +1,47 @@
 @model DetailsDto
 @inject StreetFighter.Services.IStreetService service
 @{
-    ViewData["Title"] = "Character";
+    ViewData["Title"] = "Personagem";
 }
 
 <section class="pt-5 container">
     <div class="row">
         <div class="col text-center">
-            if(Model.Prior != null)
+            @if (Model.Prior != null)
             {
-                <a asp-action="Details" asp-route-Name="@Model.Prior.Name" class="btn btn-lg btn-outline-dark">@Model.Prior.Name - @Model.Prior.Name</a>
+                <a asp-action="Details" asp-route-Numero="@Model.Prior.Nome" class="btn btn-lg btn-outline-dark">
+                    @Model.Prior.Nome - @Model.Prior.Nome
+                </a>
             }
         </div>
-         <div class="col text-center">
-            <h1 class="fs-1">@Model.Current.Name <span class="fs-2 text-secondary">Name @Model.Current.Name</span></h1>
+        <div class="col text-center">
+            <h1 class="fs-1">@Model.Current.Nome <span class="fs-2 text-secondary">Nº @Model.Current.Nome</span></h1>
         </div>
-         <div class="col text-center">
+        <div class="col text-center">
             @if (Model.Next != null)
             {
-                <a asp-action="Details" asp-route-Name="@Model.Next.Name" class="btn btn-lg btn-outline-dark"> @Model.Next.Name - @Model.Next.Name </a>
+                <a asp-action="Details" asp-route-Numero="@Model.Next.Nome" class="btn btn-lg btn-outline-dark">
+                    @Model.Next.Nome - @Model.Next.Nome
+                </a>
             }
         </div>
     </div>
-    <div class="row mt-3">
+     <div class="row mt-3">
         <div class="col-lg-5 p-0">
-            <img class="img-fluid cursor-pointer" src="@Model.Current.Image" alt="@Model.Current.Name">
+            <img class="img-fluid cursor-pointer" src="@Model.Current.Imagem" alt="@Model.Current.Nome">
         </div>
         <div class="col-lg-7 fs-5 mt-4">
-            <p class="mb-3"><strong>Altura:</strong> @Model.Current.Height mts</p>
-            <p class="mb-3"><strong>Peso:</strong> @Model.Current.Weight kgs</p>
-            <p class="mb-3"><strong>Curte:</strong> @Model.Current.Enjoy</p>
-            <p class="mb-3"><strong>Odeia:</strong> @Model.Current.Hates</p>
-            <p class="mb-3"><strong>História:</strong> @Model.Current.History</p>
-            <p class="fw-bold">Game</p>
+            <p class="mb-3"><strong>Nome:</strong> @Model.Current.Nome</p>
+            <p class="mb-3"><strong>Altura:</strong> @Model.Current.Altura mts</p>
+            <p class="mb-3"><strong>Peso:</strong> @Model.Current.Peso kgs</p>
+            <p class="mb-3"><strong>Gosta:</strong> @Model.Current.Gosta</p>
+            <p class="mb-3"><strong>Odeia:</strong> @Model.Current.Odeia</p>
+            <p class="mb-3"><strong>Historia:</strong> @Model.Current.Historia</p>
+            <p class="fw-bold">Jogo</p>
             <div class="btn-group">
-                @foreach (var game in Model.Current.Game)
+                @foreach (var jogo in Model.Current.Jogo)
                 {
-                    <a asp-action="Index" asp-route-game="@game.ToLower()" class="btn btn-lg text-white" style="background:@service.GetGame(game).Logo">@game</a>
+                    <a asp-action="Index" asp-route-tipo="@jogo.ToLower()" class="btn btn-lg text-white" style="background-color:@service.GetJogo(jogo).Cor">@jogo</a>
                 }
             </div>
         </div>

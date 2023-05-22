@@ -16,17 +16,17 @@ public class HomeController : Controller
         _streetService = streetService;
     }
 
-    public IActionResult Index(string game)
+    public IActionResult Index(string jogo)
     {
-        var streets = _streetService.GetIndexDto();
-        ViewData["filter"] = string.IsNullOrEmpty(game) ? "all" : game;
-        return View(streets);
+        var persos = _streetService.GetPersonagemDto();
+        ViewData["filter"] = string.IsNullOrEmpty(jogo) ? "all" : jogo;
+        return View(persos);
     }
 
-    public IActionResult Details(string Name)
+    public IActionResult Details(string Nome)
     {
-        var character = _streetService.GetDetailedDto(Name);
-        return View(character);
+        var personagem = _streetService.GetDetailedPersonagem(Nome);
+        return View(personagem);
     }
 
     public IActionResult Privacy()

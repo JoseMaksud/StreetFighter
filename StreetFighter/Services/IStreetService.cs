@@ -3,10 +3,10 @@ namespace StreetFighter.Services;
 
 public interface IStreetService
 {
-    List<Character> GetCharacters();
-    List<Game> GetGames();
-    Character GetCharacter(string Name);
-    IndexDto GetIndexDto();
-    DetailsDto GetDetailedDto(string Name);
-    Game GetGame(string Name);
+    List<Personagem> GetPersonagens();
+    List<Jogo> GetJogos(); 
+    Personagem GetPersonagem(string Nome);
+    PersonagemDto GetPersonagemDto();
+    DetailsDto GetDetailedPersonagem(string Nome);
+    Jogo GetJogo(String Nome);
 }
